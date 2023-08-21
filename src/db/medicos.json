@@ -1,0 +1,98 @@
+[
+  {
+    "id": "rodrigo-samudio",
+    "avatar_url": "https://img.freepik.com/free-photo/smiling-doctor-with-strethoscope-isolated-grey_651396-974.jpg",
+    "name": "Dr. Rodrigo Samúdio",
+    "especialty": "Cardiologista",
+    "rating": "4.8",
+    "consults": "1.402"
+  },
+  {
+    "id": "ana-martinez",
+    "avatar_url": "https://img.freepik.com/free-photo/female-doctor-hospital-with-stethoscope_23-2148827776.jpg",
+    "name": "Dra. Ana Martinez",
+    "especialty": "Dermatologista",
+    "rating": "4.9",
+    "consults": "1.215"
+  },
+  {
+    "id": "lucas-silva",
+    "avatar_url": "https://img.freepik.com/premium-photo/covid-19-coronavirus-outbreak-healthcare-workers-pandemic-concept_1258-19738.jpg",
+    "name": "Dr. Lucas Silva",
+    "especialty": "Ortopedista",
+    "rating": "4.7",
+    "consults": "1.082"
+  },
+  {
+    "id": "maria-souza",
+    "avatar_url": "https://t4.ftcdn.net/jpg/03/17/85/49/360_F_317854905_2idSdvi2ds3yejmk8mhvxYr1OpdVTrSM.jpg",
+    "name": "Dra. Maria Souza",
+    "especialty": "Ginecologista",
+    "rating": "4.6",
+    "consults": "1.590"
+  },
+  {
+    "id": "pedro-fernandes",
+    "avatar_url": "https://media.istockphoto.com/id/1327024466/photo/portrait-of-male-doctor-in-white-coat-and-stethoscope-standing-in-clinic-hall.webp?b=1&s=170667a&w=0&k=20&c=3GoWF_QG3WZoJK6CJWWY9Cxt5s6O-0I6qrU1QCnloKA=",
+    "name": "Dr. Pedro Fernandes",
+    "especialty": "Pneumologista",
+    "rating": "4.5",
+    "consults": "980"
+  },
+  {
+    "id": "laura-garcia",
+    "avatar_url": "https://media.istockphoto.com/id/175406514/photo/african-american-female-doctor-with-arms-crossed-isolated.jpg?s=1024x1024&w=is&k=20&c=S_NRZhQXzcppMmj0Tciwplf5UgRdyZiYQ9tNO-6KVhw=",
+    "name": "Dra. Laura Garcia",
+    "especialty": "Neurologista",
+    "rating": "4.8",
+    "consults": "1.320"
+  },
+  {
+    "id": "rafael-mendes",
+    "avatar_url": "https://as2.ftcdn.net/v2/jpg/02/69/98/99/1000_F_269989951_9Gf7PWaRtrpm2EochO3D5WVn22sFZbNZ.jpg",
+    "name": "Dr. Rafael Mendes",
+    "especialty": "Oftalmologista",
+    "rating": "4.6",
+    "consults": "1.104"
+  },
+  {
+    "id": "carolina-rodrigues",
+    "avatar_url": "https://img.freepik.com/free-photo/young-woman-doctor-white-medicine-coat-with-stethoscope-around-neck-smiling-confident-with-arms-crossed-standing-purple-wall_141793-100641.jpg",
+    "name": "Dra. Carolina Rodrigues",
+    "especialty": "Endocrinologista",
+    "rating": "4.9",
+    "consults": "1.450"
+  },
+  {
+    "id": "vitor-almeida",
+    "avatar_url": "https://img.freepik.com/free-photo/handsome-young-doctor-with-lab-coat-stethoscope-using-tablet-computer-check-patient-s-history_662251-2962.jpg",
+    "name": "Dr. Vitor Almeida",
+    "especialty": "Urologista",
+    "rating": "4.7",
+    "consults": "1.060"
+  },
+  {
+    "id": "julia-costa",
+    "avatar_url": "https://media.istockphoto.com/id/480263468/photo/portrait-of-female-doctor.jpg?s=1024x1024&w=is&k=20&c=3FRLvv7nM2DggxfvDpyGCXhnFtjFTnfBpPOIPHNyA7c=",
+    "name": "Dra. Júlia Costa",
+    "especialty": "Psiquiatra",
+    "rating": "4.8",
+    "consults": "1.275"
+  },
+  {
+    "id": "gustavo-ferreira",
+    "avatar_url": "https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX7095362.jpg",
+    "name": "Dr. Gustavo Ferreira",
+    "especialty": "Dentista",
+    "rating": "4.5",
+    "consults": "1.800"
+  },
+  {
+    "id": "andreia-oliveira",
+    "avatar_url": "https://media.istockphoto.com/id/179011470/photo/indian-female-doctor.jpg?s=1024x1024&w=is&k=20&c=eiHEi2IoYPH5QpE4IHeKQ5aFYyXZr9pWBqes2wfrn94=",
+    "name": "Dra. Andreia Oliveira",
+    "especialty": "Otorrinolaringologista",
+    "rating": "4.6",
+    "consults": "1.020"
+  }
+]
